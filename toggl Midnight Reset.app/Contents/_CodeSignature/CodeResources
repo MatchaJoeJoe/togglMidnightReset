@@ -10,7 +10,7 @@
 		</data>
 		<key>Resources/Scripts/main.scpt</key>
 		<data>
-		aMtAnPyn+VqVifuDB5MUA86c4yA=
+		//pA/tN7Z87tBM9YLM0S3iXCqn8=
 		</data>
 		<key>Resources/Scripts/resetTimer.py</key>
 		<data>
@@ -18,11 +18,11 @@
 		</data>
 		<key>Resources/Scripts/toggl/TogglPy.py</key>
 		<data>
-		hOCuw4VYII6rFn24GRW/yKgsgVI=
+		u6rYptcYIA9M7/a/W06IjDBp+m4=
 		</data>
 		<key>Resources/Scripts/toggl/TogglPy.pyc</key>
 		<data>
-		sAsPDWPe2tOlyXnQEDWVIDkjWCs=
+		gVCyNDeEL5xCCymfqwV3fF/AaqI=
 		</data>
 		<key>Resources/Scripts/toggl/__init__.py</key>
 		<data>
@@ -30,19 +30,23 @@
 		</data>
 		<key>Resources/Scripts/toggl/__init__.pyc</key>
 		<data>
-		kVFSPHE0vS55M0RYEhYPTyLczWc=
-		</data>
-		<key>Resources/Scripts/toggl/documentation.md</key>
-		<data>
-		ZTxWJPeCkRiGXarte0+S0z0cMbQ=
+		A3q12KsLroae9fsynJlOddM/B1k=
 		</data>
 		<key>Resources/Scripts/toggl/tests.py</key>
 		<data>
 		TD/iItiXZmZ7ebzZH31OkkRyUpI=
 		</data>
+		<key>Resources/Scripts/toggl/tests.pyc</key>
+		<data>
+		ZzitYUyfx0iEjYlLx/hY+g6hyJ4=
+		</data>
 		<key>Resources/Scripts/toggl/toggl2gsuite.py</key>
 		<data>
 		vmLvSvQyF4UlpPd4WtRVoApYgtA=
+		</data>
+		<key>Resources/Scripts/toggl/toggl2gsuite.pyc</key>
+		<data>
+		/l3NXdltd/W050oPW3BoHAbFxPw=
 		</data>
 		<key>Resources/applet.icns</key>
 		<data>
@@ -54,7 +58,7 @@
 		</data>
 		<key>Resources/description.rtfd/TXT.rtf</key>
 		<data>
-		S+VmhoQRQ0uaz4PjIApYZFzrfcI=
+		2dIS12nSzz0vrk/CSrw9sBqP8WA=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -74,11 +78,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			aMtAnPyn+VqVifuDB5MUA86c4yA=
+			//pA/tN7Z87tBM9YLM0S3iXCqn8=
 			</data>
 			<key>hash2</key>
 			<data>
-			pFZcGPXVX+qODxEIH5v88TBS01RMzzC2snhXjzPhx6s=
+			svZmNWzmP5YFashqeRHjRQGtXK6xvsQGrqwTgP2LVJU=
 			</data>
 		</dict>
 		<key>Resources/Scripts/resetTimer.py</key>
@@ -96,22 +100,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			hOCuw4VYII6rFn24GRW/yKgsgVI=
+			u6rYptcYIA9M7/a/W06IjDBp+m4=
 			</data>
 			<key>hash2</key>
 			<data>
-			vNZUDbbH/VxBmHrKUVzvm75j/hp5pJJP1m94kz2xvl8=
+			oJLnebf41q/2JaDfnUeKTGd4vJTCAVlRmmqvGDt4UaM=
 			</data>
 		</dict>
 		<key>Resources/Scripts/toggl/TogglPy.pyc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			sAsPDWPe2tOlyXnQEDWVIDkjWCs=
+			gVCyNDeEL5xCCymfqwV3fF/AaqI=
 			</data>
 			<key>hash2</key>
 			<data>
-			T46wE9GlkjuKqDPmXYjkmhdTXjBmWgrM0K3Ay3nkFQY=
+			9ybhDN6XWcuhIKITRiXfEPVjHDAvRedsJwbhPCaDVqM=
 			</data>
 		</dict>
 		<key>Resources/Scripts/toggl/__init__.py</key>
@@ -129,22 +133,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			kVFSPHE0vS55M0RYEhYPTyLczWc=
+			A3q12KsLroae9fsynJlOddM/B1k=
 			</data>
 			<key>hash2</key>
 			<data>
-			prjnGszWNl27NVTi51NwGEy5h1L7zJtL0j/DDZRm+rw=
-			</data>
-		</dict>
-		<key>Resources/Scripts/toggl/documentation.md</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			ZTxWJPeCkRiGXarte0+S0z0cMbQ=
-			</data>
-			<key>hash2</key>
-			<data>
-			XGdZ5zfyPASGmT6vjRbdFePbI8cZMUHbs99kjchXqKY=
+			cESDj3RrESGpt7Hxvcy1nlf5dbek9iS8mpWO3NXa1sk=
 			</data>
 		</dict>
 		<key>Resources/Scripts/toggl/tests.py</key>
@@ -158,6 +151,17 @@
 			3doBYNpbtq4TvxpdJfpVS6crxRMw5hzJl9v1Y7TjC4Y=
 			</data>
 		</dict>
+		<key>Resources/Scripts/toggl/tests.pyc</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ZzitYUyfx0iEjYlLx/hY+g6hyJ4=
+			</data>
+			<key>hash2</key>
+			<data>
+			lPxVLJqwYLATnGpsnKzHZuIDUS/Y7ttkKsHmg4Gm9j4=
+			</data>
+		</dict>
 		<key>Resources/Scripts/toggl/toggl2gsuite.py</key>
 		<dict>
 			<key>hash</key>
@@ -167,6 +171,17 @@
 			<key>hash2</key>
 			<data>
 			UoUlTkl22wQuhqZ++9tMtCrhK1WNW1nm0IH4qf6eJFo=
+			</data>
+		</dict>
+		<key>Resources/Scripts/toggl/toggl2gsuite.pyc</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			/l3NXdltd/W050oPW3BoHAbFxPw=
+			</data>
+			<key>hash2</key>
+			<data>
+			CT6TGxPFzDXmtTGkctZT3HRyp3vRTv7Ct+/kbdqxi1o=
 			</data>
 		</dict>
 		<key>Resources/applet.icns</key>
@@ -195,11 +210,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			S+VmhoQRQ0uaz4PjIApYZFzrfcI=
+			2dIS12nSzz0vrk/CSrw9sBqP8WA=
 			</data>
 			<key>hash2</key>
 			<data>
-			HOxTPnDQE+wZrgTZ/Qt4pb15TuxohSQ7yqr8Ul5o+eQ=
+			5p9Ad7ACFMTndGpXLLdxAVoMnJiifjFWLg0+/6eVu30=
 			</data>
 		</dict>
 	</dict>
