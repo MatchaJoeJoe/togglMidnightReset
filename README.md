@@ -1,2 +1,2 @@
 # togglMidnightReset
-Uses [TogglPY](https://github.com/matthewdowney/TogglPy) to reset currently running timer at midnight.
+Simple applescript droplet that uses [TogglPY](https://github.com/matthewdowney/TogglPy) to reset currently running timer at midnight.
