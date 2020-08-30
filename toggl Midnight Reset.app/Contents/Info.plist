@@ -19,9 +19,11 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.0</string>
+	<string>1.0.2</string>
 	<key>CFBundleSignature</key>
 	<string>aplt</string>
+	<key>CFBundleVersion</key>
+	<string>1.0.2</string>
 	<key>LSMinimumSystemVersionByArchitecture</key>
 	<dict>
 		<key>x86_64</key>
@@ -30,7 +32,7 @@
 	<key>LSRequiresCarbon</key>
 	<true/>
 	<key>NSHumanReadableCopyright</key>
-	<string>@ 2019 Joe Frizzell</string>
+	<string>@ 2020 Joe Frizzell</string>
 	<key>WindowState</key>
 	<dict>
 		<key>bundleDividerCollapsed</key>
