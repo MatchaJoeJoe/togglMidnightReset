@@ -26,7 +26,12 @@ def returnCurrentTimer(apiKey):
 	# get current timer info
 	currentTimer = toggl.currentRunningTimeEntry()
 	if currentTimer['data'] != None:
-		print currentTimer['data']['description']
+		if currentTimer['data'].has_key('description'):
+			print currentTimer['data']['description']
+		else:
+			print "[no description]"
+	else:
+		print "[no timer running]"
 
 
 if __name__ == "__main__":
