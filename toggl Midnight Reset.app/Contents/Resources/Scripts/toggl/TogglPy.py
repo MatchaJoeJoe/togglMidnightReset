@@ -29,19 +29,19 @@ import json
 # Class containing the endpoint URLs for Toggl
 #---------------------------------------------
 class Endpoints():
-    WORKSPACES = "https://www.toggl.com/api/v8/workspaces"
-    CLIENTS = "https://www.toggl.com/api/v8/clients"
-    PROJECTS = "https://www.toggl.com/api/v8/projects"
-    TASKS = "https://www.toggl.com/api/v8/tasks"
+    WORKSPACES = "https://api.track.toggl.com/api/v8/workspaces"
+    CLIENTS = "https://api.track.toggl.com/api/v8/clients"
+    PROJECTS = "https://api.track.toggl.com/api/v8/projects"
+    TASKS = "https://api.track.toggl.com/api/v8/tasks"
     REPORT_WEEKLY = "https://toggl.com/reports/api/v2/weekly"
     REPORT_DETAILED = "https://toggl.com/reports/api/v2/details"
     REPORT_SUMMARY = "https://toggl.com/reports/api/v2/summary"
-    START_TIME = "https://www.toggl.com/api/v8/time_entries/start"
-    TIME_ENTRIES = "https://www.toggl.com/api/v8/time_entries"
+    START_TIME = "https://api.track.toggl.com/api/v8/time_entries/start"
+    TIME_ENTRIES = "https://api.track.toggl.com/api/v8/time_entries"
     @staticmethod
     def STOP_TIME(pid):
-        return "https://www.toggl.com/api/v8/time_entries/" + str(pid) + "/stop"
-    CURRENT_RUNNING_TIME = "https://www.toggl.com/api/v8/time_entries/current"
+        return "https://api.track.toggl.com/api/v8/time_entries/" + str(pid) + "/stop"
+    CURRENT_RUNNING_TIME = "https://api.track.toggl.com/api/v8/time_entries/current"
 
 
 
